@@ -1,23 +1,32 @@
-- id: scanning
-  description: Images from 3D Art and Design
-  imagefolder: /img/courses/3d/scanning
+- id: music
+  title: Electronic Music Instruments
+  imagefolder: /img/courses/arduino/music
+  url: https://docs.google.com/document/d/1c7Rh7ETmytvWib4W_gXaz9d52rDL6GdKTzk_sAVGgXQ/edit?usp=sharing
+  description: Students developed Arduino-controlled electronic music instruments using a variety of sensors and electronic components.
   images:
-  - name: spacelady.png
-    thumb: spacelady.png
-    text: The first image
-  - name: spacelady2.png
-    thumb: spacelady2.png
-    text: The second image
-- id: galleryArduino
-  description: Images from Arduino Programming
-  imagefolder: /img/courses/arduino
+  - name: 1.png
+    thumb: 1.png
+- id: digger
+  title: Ground Breaking Robot
+  imagefolder: /img/courses/arduino/digger
+  url: https://vimeo.com/216841617
+  description: Students built and programmed an Arduino-controlled (FRC base kit) robot capable of breaking ground for the new science building.
   images:
-  - name: image-4.jpg
-    thumb: thumb-4.jpg
-    text: Another gallery, first image
-  - name: image-5.jpg
-    thumb: thumb-5.jpg
-    text: Another gallery, second image
-  - name: image-6.jpg
-    thumb: thumb-6.jpg
-    text: Another gallery, third image
+  - name: 1.jpg
+    thumb: 1.jpg
+- id: olympics
+  title: RobOlympics
+  imagefolder: /img/courses/arduino/olympics
+  url: https://docs.google.com/document/d/12maBxhfZT-B-B0wNa0olTygVRJZ8jZhqmhmbGiYQLwg/edit?usp=sharing
+  description: Students designed and programmed an Arduino-controlled robots to compete in a variety of challenges.
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+- id: escape
+  title: Escape Room
+  imagefolder: /img/courses/arduino/escape
+  url: https://docs.google.com/document/d/1VfmkMmFZoReWJKBzBLiwPPK-qbaorg-8S73MFbDhMTg/edit?usp=sharing
+  description: Students developed a series of Arduino-controlled puzzles for their peers to attempt to escape from the makerspace!
+  images:
+  - name: 1.png
+    thumb: 1.png

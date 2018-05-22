@@ -1,15 +1,14 @@
 ---
-title: 3D Art and Design
-galleryid: projects3d
+title: Creative Coding
 layout: course
+img: creativecoding/data.png
 syllabus: https://docs.google.com/document/d/1_kzi7bw28xXFvDlTxW4ByZLIE32cYJPhxdBZyvlQjzM/edit?usp=sharing
-img: 3d/gates/gates.gif
-description: 3D Art and Design employs engineering and design thinking mindsets in the development of 3D modeling projects that expose students architecture, product development, and socially-conscious design. Students solve engineering challenges by developing 3D models and physical prototypes using Computer Aided Design (CAD) software and 3D printers.
+description: Creative Coding employs computer programming as a means of creative expression. “Algorithmic” and generative art, interactive web apps, data visualizations, and virtual reality are just a few examples of the creative potential of code explored through projects.
 ---
 
 {::options parse_block_html="true" /}
 
-{% for project in site.data.projects3d %}
+{% for project in site.data.creative_projects %}
 
 <div class="clearfix headerText">
 <div class="col-md-3 gallery">
@@ -22,6 +21,5 @@ description: 3D Art and Design employs engineering and design thinking mindsets 
 </div>
 <hr>
 {% endfor %}
-
 
 {::options parse_block_html="false" /}
