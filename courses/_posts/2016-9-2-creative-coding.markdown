@@ -15,8 +15,11 @@ description: Creative Coding employs computer programming as a means of creative
 [![alt text]({{ project.imagefolder }}/{{ project.images[0].thumb }}){:.img-responsive}]({{ project.imagefolder }}/{{ image.name }})
 </div>
 <div class="col-md-9">
-<h4>[{{project.title}}]({{project.url}})</h4>
+<h4><strong>{{project.title}}</strong></h4>
 <p>{{project.description}}</p>
+* [Project Sheet]({{project.url}})
+* [Example Projects]({{project.examplesUrl}})
+
 </div>
 </div>
 <hr>
