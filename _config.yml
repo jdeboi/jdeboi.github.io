@@ -1,5 +1,5 @@
-url: jdeboi.com
-baseurl: jdeboi.com
+url: http://jdeboi.com
+baseurl: http://jdeboi.com
 
 permalink: /projects/:year/:title:output_ext
 
