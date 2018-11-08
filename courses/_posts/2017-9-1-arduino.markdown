@@ -1,9 +1,9 @@
 ---
-title: Arduino Programming
+title: The Art of Making
 layout: course
-syllabus: https://docs.google.com/document/d/1-wlEr1381QtQVv3uC-1OeJkFdw-UsqrXFt5qNRpLcvk/edit?usp=sharing
+syllabus: https://docs.google.com/document/d/1iME5lpYk23gugmj-ZR5-RzBcaOKsVtZB7jOqLTAwX4U/edit?usp=sharing
 img: arduino/digger/1.jpg
-description: This course is a hands-on introduction to the Arduino microcontroller, an incredibly versatile open-source electronics platform used for developing interactive electronics projects. Students will learn about motors, LEDs, sensors, and other electrical components as they design, build, and program circuits.
+description: This course is a hands-on introduction to the technology and mindsets of making. Projects will introduce students to coding, engineering, and design thinking by leveraging tools like Arduinos, 3D printers, laser cutters, and more. Wearable tech, 3D printed boats, line-following robots, and electronic music instruments are just a few examples of potential projects created in this course.
 ---
 
 {::options parse_block_html="true" /}

@@ -14,7 +14,9 @@ description: Constellations is an animated, interactive celestial skyscape – a
 
 ---
 
-Constellations is an animated, interactive celestial skyscape – a cosmic orchestra of light and sound. In this incarnation of the Kirasu universe, participants’ bodies are tracked and transformed into constellations, illuminating the night sky and entangling motion with the stars.
+**Overview:** Constellations is an interactive (Kinect), projection mapped light and sound project created for Luna Fête 2017. This project was a collaboration with the artist collective, [Kirasu](http://www.kirasumusic.com/). I designed and programmed the visuals.
+
+**Description:** Constellations is an animated, interactive celestial skyscape – a cosmic orchestra of light and sound. In this incarnation of the Kirasu universe, participants’ bodies are tracked and transformed into constellations, illuminating the night sky and entangling motion with the stars.
 
 The current installation is just one of an infinite number of potential materializations inspired by philosophical musings on the unknown and on what lies beyond. At its heart, Constellations is about finding our place in the universe, transporting our active, eternal essences through space and time, and by doing so, rediscovering that we, too, are born of stars. All incarnations of Kirasu, including Constellations, are dedicated to co-creator, David Rosser, the white moth who continues to inspire from the upper pure bright air. Viva La Rosser!
 
