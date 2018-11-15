@@ -14,7 +14,7 @@ description: Constellations is an animated, interactive celestial skyscape – a
 
 ---
 
-**Overview:** Constellations is an interactive (Kinect), projection mapped light and sound project created for Luna Fête 2017. This project was a collaboration with the artist collective, [Kirasu](http://www.kirasumusic.com/). I designed and programmed the visuals.
+**Overview:** Constellations is an interactive (Kinect), projection mapped light and sound installation created for Luna Fête 2017. This project was a collaboration with the artist collective [Kirasu](http://www.kirasumusic.com/). I designed and programmed the visuals.
 
 **Description:** Constellations is an animated, interactive celestial skyscape – a cosmic orchestra of light and sound. In this incarnation of the Kirasu universe, participants’ bodies are tracked and transformed into constellations, illuminating the night sky and entangling motion with the stars.
 

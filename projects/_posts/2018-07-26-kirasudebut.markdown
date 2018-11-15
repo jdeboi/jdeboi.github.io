@@ -1,5 +1,5 @@
 ---
-title: Kirasu Debut
+title: Kirasu's Debut
 subtitle: One Eyed Jacks
 layout: post
 modal-id: 9
@@ -14,7 +14,13 @@ description: Kirasu debuted their music and visuals at One Eyed Jacks in New Orl
 
 ---
 
-[Kirasu](http://www.kirasumusic.com/) is a music, science, and art collaborative producing unique experiences inspired by a kind of divine physics hidden behind everything familiar. This show marked the group's debut, which projection mapped, interactive visuals paired with original music.
+[Kirasu](http://www.kirasumusic.com/) is a music, science, and art collaborative producing unique experiences inspired by a kind of divine physics hidden behind everything familiar. This show marked the group's debut, which involved projection mapped, interactive visuals paired with original music. I was responsible for creating the Processing sketch that controlled the visuals, including projection mapping, MIDI triggering, scene changes, and generative art.
 
 
-![Kirasu Debut]({{site.url}}/img/portfolio/kirasudebut/neon1.jpg){:.img-responsive}
+![Kirasu Debut]({{site.url}}/img/portfolio/kirasudebut/neon3.jpg){:.img-responsive}
+
+![Kirasu Debut]({{site.url}}/img/portfolio/kirasudebut/pink.jpg){:.img-responsive}
+
+![Kirasu Debut]({{site.url}}/img/portfolio/kirasudebut/splash2.jpg){:.img-responsive}
+
+![Kirasu Debut]({{site.url}}/img/portfolio/kirasudebut/crowd.jpg){:.img-responsive}

@@ -6,6 +6,22 @@
   images:
   - name: 1.png
     thumb: 1.png
+- id: arcade
+  title: Arcade Games
+  imagefolder: /img/courses/arduino/arcade
+  url: https://docs.google.com/document/d/1nM9ZnWqP0MMoxMqfNHE6gjASCJSvBve71_Hm_Gh6IEY/edit?usp=sharing
+  description: Students used Arduinos to develop interactive arcade games (claw machine, skeeball machine, etc.)
+  images:
+  - name: 1.jpg
+    thumb: 1.jpg
+- id: athletics
+  title: Improving the Newman Athletics Experience
+  imagefolder: /img/courses/arduino/athletics
+  url: https://docs.google.com/document/d/14oWs9L0ecAG_u2S7AloAGj2ghua9z5c004FOCbAUk_A/edit?usp=sharing
+  description: Students developed Arduino solutions (e.g. LED field goal posts that light up when the ball goes through, speedometers, etc.) to improve the Newman athletics experience.
+  images:
+  - name: 1.png
+    thumb: 1.png
 - id: digger
   title: Ground Breaking Robot
   imagefolder: /img/courses/arduino/digger
