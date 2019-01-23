@@ -14,6 +14,14 @@ description: Kirasu debuted their music and visuals at One Eyed Jacks in New Orl
 
 ---
 
+Jenna deBoisblanc & [Kirasu](http://www.kirasumusic.com/)   
+July 2018  
+Custom software (Processing),  
+computer, projector     
+25 x 8 x 8 ft  
+
+---
+
 [Kirasu](http://www.kirasumusic.com/) is a music, science, and art collaborative producing unique experiences inspired by a kind of divine physics hidden behind everything familiar. This show marked the group's debut, which involved projection mapped, interactive visuals paired with original music. I was responsible for creating the Processing sketch that controlled the visuals, including projection mapping, MIDI triggering, scene changes, and generative art.
 
 

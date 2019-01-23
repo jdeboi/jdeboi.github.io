@@ -12,8 +12,18 @@ category: Projects
 description: The Cave is an interactive, projection-mapped installation debuted at Luna Fete 2016
 ---
 
+Jenna deBoisblanc    
+December 2016  
+Custom software (Processing, Node.js),  
+computer, projector     
+16 x 16 x 8 ft   
+
 {::options parse_block_html="true" /}
 <div class="post_text">
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Je10sqC7Q_c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 “Art and the ability to think of abstract concepts is what distinguishes our species from other animals... Its emergence, therefore, marks one of the key moments when our species became truly human” [*](http://www.bbc.com/news/science-environment-29415716)
 
@@ -24,9 +34,7 @@ For the tech savvy: the program employs convolutional neural networks to preserv
 
 </div>
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Je10sqC7Q_c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+
 
 
 ![the cave]({{site.url}}/img/portfolio/cave/cave3.jpg){:.img-responsive}
