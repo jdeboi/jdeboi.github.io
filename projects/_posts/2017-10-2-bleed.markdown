@@ -5,7 +5,7 @@ layout: post
 modal-id: 8
 date: 2014-1-2
 img: bleed/bleed.jpg
-thumbnail: bleed-thumbnail.png
+thumbnail: bleed/bleed-thumbnail.png
 alt: Bleed
 project-date: March 2018
 client: CAC Call

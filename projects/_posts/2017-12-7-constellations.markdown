@@ -5,7 +5,7 @@ layout: post
 modal-id: 9
 date: 2017-12-7
 img: constellations/0_stripedlit.jpg
-thumbnail: constellations-thumbnail.jpg
+thumbnail: constellations/constellations-thumbnail.jpg
 alt: image-alt
 project-date: December 2017
 client:

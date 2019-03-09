@@ -5,7 +5,7 @@ layout: post
 modal-id: 1
 date: 2011-5-1
 img:
-thumbnail: walker-mural-thumbnail.png
+thumbnail: walker/walker-mural-thumbnail.png
 alt: Tape Mural
 project-date: May 2011
 category: Projects

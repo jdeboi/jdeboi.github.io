@@ -1,5 +1,5 @@
 url: http://jdeboi.com
-baseurl: 
+baseurl:
 
 permalink: /projects/:year/:title:output_ext
 
@@ -12,6 +12,8 @@ description: Jenna deBoisblanc is a creative coder, teacher, and maker in New Or
 social:
   - title: youtube
     url: https://www.youtube.com/channel/UCzaGufLNFoetara43evQhMg
+  - title: instagram
+    url: https://www.instagram.com/jdeboi/
   - title: github
     url: http://github.com/jdeboi
   - title: linkedin

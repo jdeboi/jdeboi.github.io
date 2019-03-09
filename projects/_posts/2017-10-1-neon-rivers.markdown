@@ -5,7 +5,7 @@ layout: post
 modal-id: 8
 date: 2017-10-1
 img: neonrivers/bluegreen.jpg
-thumbnail: neon-rivers-thumbnail.jpg
+thumbnail: neonrivers/neon-rivers-thumbnail.jpg
 alt: Neon Rivers
 project-date: October 2017
 client: Aloft Hotels

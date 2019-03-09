@@ -5,7 +5,7 @@ layout: post
 modal-id: 5
 date: 2015-12-1
 img: spacelady/sl1.png
-thumbnail: spacelady-thumbnail.png
+thumbnail: spacelady/spacelady-thumbnail.png
 alt: Spacelady
 project-date: December 2015
 category: Projects

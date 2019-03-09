@@ -5,7 +5,7 @@ layout: post
 modal-id: 9
 date: 2013-06-26
 img: kirasudebut/0_stripedlit.jpg
-thumbnail: kirasudebut-thumbnail.jpg
+thumbnail: kirasudebut/kirasudebut-thumbnail.jpg
 alt: image-alt
 project-date: July 2018
 client:

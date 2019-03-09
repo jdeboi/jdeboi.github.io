@@ -5,7 +5,7 @@ layout: post
 modal-id: 7
 date: 2016-12-7
 img: cave/greenblue.jpg
-thumbnail: cave-thumbnail.jpg
+thumbnail: cave/cave-thumbnail.jpg
 alt: image-alt
 project-date: December 2016
 category: Projects

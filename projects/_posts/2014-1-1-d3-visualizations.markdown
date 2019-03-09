@@ -5,7 +5,7 @@ layout: post
 modal-id: 3
 date: 2014-1-1
 img:
-thumbnail: scorecardtab-thumbnail.png
+thumbnail: d3/scorecardtab-thumbnail.png
 alt: D3 visualization
 project-date: January 2014
 category: Projects

@@ -5,10 +5,10 @@ layout: post
 modal-id: 9
 date: 2019-2-28
 img: spacewalk/0.jpg
-thumbnail: spacewalk-thumbnail.jpg
+thumbnail: spacewalk/spacewalk-thumbnail1.jpg
 alt: image-alt
 project-date: February 2019
-client: Krew du Lune
+client: Krewe du Lune
 category: Projects
 description: Spacewalk is a projection mapped installation for Space Ball 2019.
 
@@ -32,6 +32,10 @@ Spacewalk is a projection mapped installation created for Krewe du Lune's 2019 S
 
 ---
 
+![Spacewalk Installation]({{site.url}}/img/portfolio/spacewalk/0.jpg){:.img-responsive}
+
 ![Spacewalk Installation]({{site.url}}/img/portfolio/spacewalk/2.jpg){:.img-responsive}
 
 ![Spacewalk Installation]({{site.url}}/img/portfolio/spacewalk/1.jpg){:.img-responsive}
+
+![Spacewalk Installation]({{site.url}}/img/portfolio/spacewalk/3.jpg){:.img-responsive}

@@ -5,7 +5,7 @@ layout: post
 modal-id: 6
 date: 2016-1-5
 img: clock/clock.jpg
-thumbnail: clock-thumbnail.jpg
+thumbnail: clock/clock-thumbnail.jpg
 alt: classroom clock
 project-date: January 2016
 category: Projects

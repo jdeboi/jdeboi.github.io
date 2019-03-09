@@ -5,7 +5,7 @@ layout: post
 modal-id: 4
 date: 2014-2-1
 img: monome.jpg
-thumbnail: monome-thumbnail.jpg
+thumbnail: monome/monome-thumbnail.jpg
 alt: Spacelady
 project-date: February 2014
 category: Projects

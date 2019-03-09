@@ -5,7 +5,7 @@ layout: post
 modal-id: 0
 date: 2011-4-1
 img:
-thumbnail: xylophone-thumbnail.jpg
+thumbnail: xylophone/xylophone-thumbnail.jpg
 alt: Arduino Xylophone
 project-date: April 2011
 category: Projects

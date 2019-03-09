@@ -5,7 +5,7 @@ layout: post
 modal-id: 2
 date: 2013-1-1
 img:
-thumbnail: bike-thumbnail.png
+thumbnail: bike/bike-thumbnail.png
 alt: D3 visualization
 project-date: January 2013
 category: Projects
