@@ -9,7 +9,7 @@ thumbnail: kirasumusic/kirasumusic-thumbnail.png
 alt: image-alt
 project-date: November 2017
 client:
-category: Projects
+tags: [Web, p5.js]
 description:
 
 ---

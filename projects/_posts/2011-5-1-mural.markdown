@@ -8,7 +8,7 @@ img:
 thumbnail: walker/walker-mural-thumbnail.png
 alt: Tape Mural
 project-date: May 2011
-category: Projects
+tags: [Stop Motion]
 description: Stop motion tape mural
 ---
 

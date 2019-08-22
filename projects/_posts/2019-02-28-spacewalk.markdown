@@ -9,7 +9,7 @@ thumbnail: spacewalk/spacewalk-thumbnail1.jpg
 alt: image-alt
 project-date: February 2019
 client: Good Children Gallery
-category: Projects
+tags: [Processing, Projection Mapping]
 description: Spacewalk is a projection mapped installation for Space Ball 2019.
 
 ---

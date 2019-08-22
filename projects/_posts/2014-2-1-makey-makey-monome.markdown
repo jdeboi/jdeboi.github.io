@@ -8,7 +8,7 @@ img: monome.jpg
 thumbnail: monome/monome-thumbnail.jpg
 alt: Spacelady
 project-date: February 2014
-category: Projects
+tags: [Arduino]
 description: interactive touch-sensitive music instrument
 ---
 

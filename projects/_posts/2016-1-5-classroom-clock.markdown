@@ -8,7 +8,7 @@ img: clock/clock.jpg
 thumbnail: clock/clock-thumbnail.jpg
 alt: classroom clock
 project-date: January 2016
-category: Projects
+tags: [Arduino]
 description: a Arduino-controlled LED clock designed for teachers, by teachers
 ---
 

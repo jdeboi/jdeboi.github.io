@@ -9,7 +9,7 @@ thumbnail: neonrivers/neon-rivers-thumbnail.jpg
 alt: Neon Rivers
 project-date: October 2017
 client: Aloft Hotels
-category: Projects
+tags: [DMX, LEDs, Kinect, OpenFrameworks]
 description: interactive, Kinect-controlled river of light
 ---
 

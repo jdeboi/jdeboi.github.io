@@ -9,7 +9,7 @@ thumbnail: kirasudebut/kirasudebut-thumbnail.jpg
 alt: image-alt
 project-date: July 2018
 client:
-category: Projects
+tags: [Live Visuals, Processing, Projection Mapping]
 description: Kirasu debuted their music and visuals at One Eyed Jacks in New Orleans.
 
 ---

@@ -8,7 +8,7 @@ img: spacelady/sl1.png
 thumbnail: spacelady/spacelady-thumbnail.png
 alt: Spacelady
 project-date: December 2015
-category: Projects
+tags: [Arduino]
 description: interactive, touch-sensitive LED mural
 ---
 

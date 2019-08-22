@@ -8,7 +8,7 @@ img: cave/greenblue.jpg
 thumbnail: cave/cave-thumbnail.jpg
 alt: image-alt
 project-date: December 2016
-category: Projects
+tags: [Processing, Machine Learning, Web, Projection Mapping,  Node.js]
 description: The Cave is an interactive, projection-mapped installation debuted at Luna Fete 2016
 ---
 

@@ -9,7 +9,7 @@ thumbnail: plantdat/plantdat-thumbnail.png
 alt: Plant Dat
 project-date: June 2019
 client: Lucky Art Fair
-category: Projects
+tags: [Processing, Web, Node.js, React]
 description: interactive rain garden promoting indigenous plants for better water management in New Orleans
 custom-javascript-list:
 ---

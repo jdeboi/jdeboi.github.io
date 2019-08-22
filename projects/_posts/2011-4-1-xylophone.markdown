@@ -8,7 +8,7 @@ img:
 thumbnail: xylophone/xylophone-thumbnail.jpg
 alt: Arduino Xylophone
 project-date: April 2011
-category: Projects
+tags: Arduino
 description: Arduino-controlled electronic MIDI xylophone
 ---
 I built an Arduino-controlled electronic xylophone.
