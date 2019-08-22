@@ -1,8 +1,8 @@
 ---
+modal-id: aa006
 title: Spacelady
 subtitle: interactive, touch-sensitive LED mural
 layout: post
-modal-id: 5
 date: 2015-12-1
 img: spacelady/sl1.png
 thumbnail: spacelady/spacelady-thumbnail.png

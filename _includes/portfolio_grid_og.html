@@ -1,0 +1,20 @@
+<!-- Portfolio Grid Section -->
+    <div id="portfolio" class="topDiv">
+        <div class="container">
+            <div class="row">
+              {% assign sortedPosts = site.categories['projects'] | sort: 'title' %}
+              {% for post in sortedPosts %}
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="{{ post.url }}" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <h4>{{ post.title }}</h4>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
+                    </a>
+                </div>
+              {% endfor %}
+            </div>
+        </div>
+    </div>

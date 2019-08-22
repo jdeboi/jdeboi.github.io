@@ -1,9 +1,9 @@
 ---
+modal-id: aa005
 title: Kirasu's Debut
 subtitle: One Eyed Jacks
 layout: post
-modal-id: 9
-date: 2013-06-26
+date: 2018-07-26
 img: kirasudebut/0_stripedlit.jpg
 thumbnail: kirasudebut/kirasudebut-thumbnail.jpg
 alt: image-alt

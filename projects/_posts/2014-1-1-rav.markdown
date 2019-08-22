@@ -1,0 +1,26 @@
+---
+modal-id: aa0090
+title: Refinery Accident Visualizer
+subtitle: interactive maps and charts
+layout: post
+date: 2014-1-1
+img:
+thumbnail: rav/ravla-thumbnail.png
+alt: D3 visualization
+project-date: January 2014
+category: Projects
+description: d3.js visualizer of Louisiana petrochemical accidents
+---
+
+
+[The Refinery Accident Visualizer](http://rav.labucketbrigade.org/) is a d3.js visualization of petrochemical accidents in Louisiana from 2005-2015. The interactive map provides refinery-level statistics, chemical compounds comprising each accident, as well as demographic data of the communities (typically low-income people of color) surrounding these refineries.
+
+The data comes from the [Refinery Accident Database (RAD)](http://www.louisianarefineryaccidentdatabase.org/), which compiles refineries' own accident reports submitted to the Louisiana Department of Environmental Quality (LDEQ). This database is a part of the [Louisiana Bucket Brigade's](http://labucketbrigade.org/) Refinery Efficiency Initiative to protect health of fenceline communities.
+
+---
+
+[![D3 pollution visualization](/img/portfolio/rav/home.png){:.img-responsive}](http://rav.labucketbrigade.org/)
+
+[![D3 pollution visualization](/img/portfolio/rav/la.png){:.img-responsive}](http://rav.labucketbrigade.org/)
+
+[![D3 pollution visualization](/img/portfolio/rav/refinery.png){:.img-responsive}](http://rav.labucketbrigade.org/)

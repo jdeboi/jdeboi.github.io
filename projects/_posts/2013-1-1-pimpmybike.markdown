@@ -1,8 +1,8 @@
 ---
+modal-id: aa010
 title: pimpMyBike
 subtitle: Arduino-controlled bike lights, brake, speedometer
 layout: post
-modal-id: 2
 date: 2013-1-1
 img:
 thumbnail: bike/bike-thumbnail.png

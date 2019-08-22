@@ -1,8 +1,8 @@
 ---
+modal-id: aa005
 title: Neon Rivers
 subtitle: interactive, Kinect-controlled river of light
 layout: post
-modal-id: 8
 date: 2017-10-1
 img: neonrivers/bluegreen.jpg
 thumbnail: neonrivers/neon-rivers-thumbnail.jpg

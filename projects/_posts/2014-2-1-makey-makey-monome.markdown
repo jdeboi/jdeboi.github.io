@@ -1,8 +1,8 @@
 ---
+modal-id: aa008
 title: MaKey MaKey Monome
 subtitle: interactive touch-sensitive music instrument
 layout: post
-modal-id: 4
 date: 2014-2-1
 img: monome.jpg
 thumbnail: monome/monome-thumbnail.jpg

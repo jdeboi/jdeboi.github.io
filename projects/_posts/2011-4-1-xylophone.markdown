@@ -1,8 +1,8 @@
 ---
+modal-id: aa012
 title: Arduino Xylophone
 subtitle: Arduino-controlled electronic MIDI xylophone
 layout: post
-modal-id: 0
 date: 2011-4-1
 img:
 thumbnail: xylophone/xylophone-thumbnail.jpg

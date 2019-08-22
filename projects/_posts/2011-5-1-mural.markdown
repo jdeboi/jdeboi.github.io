@@ -1,8 +1,8 @@
 ---
+modal-id: aa011
 title: Tape Mural
 subtitle: Stop motion tape mural
 layout: post
-modal-id: 1
 date: 2011-5-1
 img:
 thumbnail: walker/walker-mural-thumbnail.png

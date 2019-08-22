@@ -1,8 +1,8 @@
 ---
+modal-id: aa004
 title: Classroom Clock
 subtitle: a clock designed for teachers, by teachers
 layout: post
-modal-id: 6
 date: 2016-1-5
 img: clock/clock.jpg
 thumbnail: clock/clock-thumbnail.jpg
