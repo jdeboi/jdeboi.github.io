@@ -9,7 +9,7 @@ thumbnail: plantdat/plantdat-thumbnail.png
 alt: Plant Dat
 project-date: June 2019
 client: Lucky Art Fair
-tags: [Processing, Web, Node.js, React]
+tags: [Processing, Web, Node.js, React, Interactive]
 description: interactive rain garden promoting indigenous plants for better water management in New Orleans
 custom-javascript-list:
 ---
@@ -27,8 +27,13 @@ Plant Dat is an interactive rain garden that seeks to promote indigenous plants 
 
 Plant Dat was first debuted at the Lucky Art Fair in June, 2019. Jenna deBoisblanc programmed the mobile app and projected visuals, Joanna Farley illustrated the plants and flowers, and Jenny Wolff provided the indigenous plant expertise.
 
+![Plant Dat]({{site.url}}/img/portfolio/plantdat/small.jpg){:.img-responsive}
+
+
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-r6FQa0X-pI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/cwitOKYCGxk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 ---   
