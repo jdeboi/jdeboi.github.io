@@ -22,5 +22,6 @@ Dimensions variable
 ---
 This project sonifies and visualizes the galactic cosmic radiation encountered by astronauts on the journey to Mars. Developed in collaboration with NASA, the Processing program illustrates radiation environments and potential hazards. In addition, the Processing sketch sends OSC signals to Pure Data for sonification. I led the design and creation of the visuals while my collaborators generated the corresponding music.   
 
-
-![Cosmic Symphony NASA]({{site.url}}/img/portfolio/nasa/viz.jpg){:.img-responsive}
+<div class="embed-responsive embed-responsive-16by9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KIe9eU5zCGw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
