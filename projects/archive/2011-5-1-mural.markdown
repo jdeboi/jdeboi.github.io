@@ -1,0 +1,19 @@
+---
+modal-id: aa011
+title: Tape Mural
+subtitle: Stop motion tape mural
+layout: post
+date: 2011-5-1
+img:
+thumbnail: walker/walker-mural-thumbnail.png
+alt: Tape Mural
+project-date: May 2011
+tags: [Stop Motion]
+description: Stop motion tape mural
+---
+
+A video I made in my college dorm room:
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wrvVLLh4AXg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>

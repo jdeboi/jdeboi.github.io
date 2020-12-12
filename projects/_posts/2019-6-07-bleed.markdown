@@ -10,6 +10,7 @@ alt: Bleed
 project-date: June 2019
 client: Tulane Carroll Gallery
 tags: [OpenFrameworks, Kinect, Interactive]
+categories: [light]
 description: interactive bloodletting of the Mississippi
 custom-javascript-list:
 ---

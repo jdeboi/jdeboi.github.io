@@ -10,6 +10,7 @@ alt: image-alt
 project-date: July 2018
 client:
 tags: [Live Visuals, Processing, Projection Mapping]
+categories: [light]
 description: Kirasu debuted their music and visuals at One Eyed Jacks in New Orleans.
 
 ---

@@ -86,3 +86,20 @@ overflow: hidden;
 .headerText {
   padding-bottom: 20px;
 }
+
+.categoryLink {
+  /* border-radius: 10px; */
+  background-color: blue;
+  padding: 5px 8px;
+  border: none;
+
+  background: rgba(106,159,181,0.15);
+  margin-right: .5rem;
+  border-radius: 5px;
+  color: #6a9fb5;
+  /* font-family: "PT Sans",Helvetica,Arial,sans-serif; */
+  font-size: 90%;
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition: all 0.1s ease-in-out;
+  transition: all 0.1s ease-in-out;
+}

@@ -9,6 +9,7 @@ thumbnail: bike/bike-thumbnail.png
 alt: D3 visualization
 project-date: January 2013
 tags: [Arduino, Physical Computing]
+categories: [maker]
 description: Arduino-controlled bike lights, brake, speedometer
 ---
 

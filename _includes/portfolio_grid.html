@@ -1,10 +1,47 @@
+<!-- Category Link Creator -->
+<!-- this example: https://langrsoft.com/2020/03/26/filtering-blog-posts-by-category-with-jekyll/ -->
+<script type="text/javascript">
+	function filterUsingCategory(selectedCategory) {
+    // console.log("CAT", selectedCategory)
+	  var id = 0;
+      {% assign sortedPosts = site.categories['projects'] | sort: 'modal-id' %}
+	  {% for post in sortedPosts %}
+		var cats = {{ post.categories | jsonify }}
+  
+		var postDiv = document.getElementById(++id);
+		postDiv.style.display = (selectedCategory == 'all' || cats.includes(selectedCategory)) 
+		  ? 'unset' 
+		  : 'none';
+	  {% endfor %}
+	}
+  </script>
+  
+
+
+
 <!-- Portfolio Grid Section -->
     <div id="portfolio" class="topDiv">
         <div class="container">
+            <!-- category links -->
+            <div>
+                <button id="all" class="categoryLink" onclick="filterUsingCategory('all')">all</button>
+                {% assign categories = site.categories | sort %}
+                {% for category in categories %}
+                    {% assign cat = category | first %}
+                        {% if cat != "courses" and cat != "projects" %}
+                          <button id="{{ cat }}" class="categoryLink" onclick="filterUsingCategory(this.id)">{{ cat }}</button>
+                    {% endif %}
+                {% endfor %}
+                <hr />
+              </div>
+            <!-- end category links -->
             <div class="row">
               {% assign sortedPosts = site.categories['projects'] | sort: 'modal-id' %}
+              {% assign id = 0 %}
               {% for post in sortedPosts %}
-                <div class="col-md-4 col-sm-6 portfolio-item">
+              {% assign id = id | plus:1 %}
+            
+                <div class="col-md-4 col-sm-6 portfolio-item post" id="{{id}}">
                     <a href="{{ post.url }}" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
@@ -14,6 +51,7 @@
                         <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
                     </a>
                 </div>
+            
               {% endfor %}
             </div>
         </div>

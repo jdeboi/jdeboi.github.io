@@ -9,6 +9,7 @@ thumbnail: spacelady/spacelady-thumbnail.png
 alt: Spacelady
 project-date: December 2015
 tags: [Arduino, Physical Computing]
+categories: [maker]
 description: interactive, touch-sensitive LED mural
 ---
 

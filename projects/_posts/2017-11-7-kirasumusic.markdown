@@ -10,6 +10,7 @@ alt: image-alt
 project-date: November 2017
 client:
 tags: [Web, p5.js]
+categories: [web]
 description:
 
 ---

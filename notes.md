@@ -1,3 +1,7 @@
+
+bundle exec jekyll serve
+
+
 '"Lato","Helvetica Neue",Helvetica,Arial,sans-serif'
 
 
