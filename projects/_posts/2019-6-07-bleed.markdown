@@ -1,5 +1,5 @@
 ---
-modal-id: aa007
+modal-id: aa0051
 title: Bleed
 subtitle: interactive bloodletting of the Mississippi
 layout: post
@@ -10,7 +10,7 @@ alt: Bleed
 project-date: June 2019
 client: Tulane Carroll Gallery
 tags: [OpenFrameworks, Kinect, Interactive]
-categories: [light]
+categories: [installation]
 description: interactive bloodletting of the Mississippi
 custom-javascript-list:
 ---

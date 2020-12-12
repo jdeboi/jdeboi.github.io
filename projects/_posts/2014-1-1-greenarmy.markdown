@@ -9,7 +9,7 @@ thumbnail: scorecard/scorecard-thumbnail.png
 alt: D3 visualization
 project-date: January 2014
 tags: [Data Visualization, Web]
-categories: [data viz]
+categories: [data viz, web]
 description: d3.js interactive environmental voting map
 ---
 

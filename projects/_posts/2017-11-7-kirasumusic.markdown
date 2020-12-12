@@ -1,6 +1,6 @@
 ---
-modal-id: aa006
-title: Kirasu Website
+modal-id: aa0033
+title: Kirasu
 subtitle: Kirasu Music
 layout: post
 date: 2017-11-7
@@ -17,7 +17,7 @@ description:
 
 [Kirasu](http://www.kirasumusic.com/) is an audio-visual artist collective committed to creating interactive, immersive, and innovative musical experiences.  
 
-Kirasu's website was designed, programmed, and animated by Jenna deBoisblanc (primarily using p5.js). Rebecca Rebouche created the illustrations and artwork. The music was created by Alex Smith, Sarah Fontenelle, and David Rosser. More information at [kirasumusic.com](http://www.kirasumusic.com/).
+I designed, programmed, and animated Kirasu's website (primarily using p5.js). Rebecca Rebouche created the illustrations and artwork. The music was created by Alex Smith, Sarah Fontenelle, and David Rosser. More information at [kirasumusic.com](http://www.kirasumusic.com/).
 
 ---
 

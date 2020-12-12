@@ -1,5 +1,5 @@
 ---
-modal-id: aa005
+modal-id: aa007
 title: Kirasu's Debut
 subtitle: One Eyed Jacks
 layout: post
@@ -10,7 +10,7 @@ alt: image-alt
 project-date: July 2018
 client:
 tags: [Live Visuals, Processing, Projection Mapping]
-categories: [light]
+categories: []
 description: Kirasu debuted their music and visuals at One Eyed Jacks in New Orleans.
 
 ---
