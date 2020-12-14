@@ -1,0 +1,34 @@
+---
+modal-id: aa00321
+title: Oogle
+subtitle:
+layout: post
+date: 2020-10-1
+img:
+thumbnail: google/oogle-thumbnail.png
+alt: Oogle
+project-date: October 2020
+client: 
+tags: [d3.js]
+categories: [web]
+description: Explore the intimate details of my living space through this digital map
+custom-javascript-list:
+---
+
+Jenna deBoisblanc
+October 2020  
+Custom software (d3.js, babylon.js)   
+Dimensions variable  
+
+---
+<a href="https://jdeboi.com/Oogle">Link to project.</a>
+
+Oogle critiques the rise of surveillance capitalism, the increasingly dominant economic model whereby tech companies commodify personal data. This interactive web app allows users to explore each room of my house, and upon zooming, the location labels reveal increasingly intimate details about my living space. By Mimicking Google’s interface and color scheme, I encourage the user to reflect upon their potentially inherent trust in a profit-driven software giant that is quickly mapping and photographing every inch of Earth’s surface.  
+
+A house view mode, designed to satirize Google Street View, further drills home this critique. I employ my own 360 panoramas in a manner that increases my vulnerability and establishes a voyeuristic relationship with the viewer in order to reflect upon the state of digital privacy.
+
+![Oogle]({{site.url}}/img/portfolio/google/map.png){:.img-responsive}
+
+![House View]({{site.url}}/img/portfolio/google/houseview.png){:.img-responsive}
+
+

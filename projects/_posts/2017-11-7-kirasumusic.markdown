@@ -15,9 +15,9 @@ description:
 
 ---
 
-[Kirasu](http://www.kirasumusic.com/) is an audio-visual artist collective committed to creating interactive, immersive, and innovative musical experiences.  
+Kirasu is an audio-visual artist collective committed to creating interactive, immersive, and innovative musical experiences. I designed, programmed, and animated Kirasu's website (primarily using p5.js). Rebecca Rebouche created the illustrations and artwork. Alex Smith, Sarah Fontenelle, and David Rosser created the music. 
 
-I designed, programmed, and animated Kirasu's website (primarily using p5.js). Rebecca Rebouche created the illustrations and artwork. The music was created by Alex Smith, Sarah Fontenelle, and David Rosser. More information at [kirasumusic.com](http://www.kirasumusic.com/).
+Check out the site at [kirasumusic.com](http://www.kirasumusic.com/).
 
 ---
 

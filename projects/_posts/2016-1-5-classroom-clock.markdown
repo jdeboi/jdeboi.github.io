@@ -13,7 +13,7 @@ categories: [maker]
 description: a Arduino-controlled LED clock designed for teachers, by teachers
 ---
 
-A DIY digital Arduino clock designed for and by teachers.
+A DIY digital Arduino clock designed that I designed for teachers.
 
 [Instructable](https://www.instructables.com/id/Classroom-Clock/)
 
