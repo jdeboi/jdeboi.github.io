@@ -15,7 +15,7 @@ description: Visualization and sonification of cosmic radiation on the journey t
 custom-javascript-list:
 ---
 
-Jenna deBoisblanc, Dr. Richard Snow, William Nelson, Jacob Gartenstein
+Jenna deBoisblanc, Dr. Richard Snow, William Nelson, Jacob Gartenstein  
 March 2020  
 Custom software (Processing, Pure Data)   
 Dimensions variable  

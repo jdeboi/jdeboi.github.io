@@ -15,7 +15,7 @@ description: MFA Thesis Exhibition
 custom-javascript-list:
 ---
 
-Jenna deBoisblanc
+Jenna deBoisblanc  
 April 2021  
 Custom software (MERN stack, babylon.js, three.js)   
 Dimensions variable  

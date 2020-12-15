@@ -15,7 +15,7 @@ description: Explore your Google Maps location data as a digital terrain
 custom-javascript-list:
 ---
 
-Jenna deBoisblanc
+Jenna deBoisblanc  
 November 2020  
 Custom software (paper.js, Mapbox)   
 Dimensions variable  

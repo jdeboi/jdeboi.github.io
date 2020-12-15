@@ -15,7 +15,7 @@ description: Explore the intimate details of my living space through this digita
 custom-javascript-list:
 ---
 
-Jenna deBoisblanc
+Jenna deBoisblanc  
 October 2020  
 Custom software (d3.js, babylon.js)   
 Dimensions variable  
