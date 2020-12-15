@@ -27,8 +27,14 @@ Oogle critiques the rise of surveillance capitalism, the increasingly dominant e
 
 A house view mode, designed to satirize Google Street View, further drills home this critique. I employ my own 360 panoramas in a manner that increases my vulnerability and establishes a voyeuristic relationship with the viewer in order to reflect upon the state of digital privacy.
 
+<div class="embed-responsive embed-responsive-16by9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WbFJKYNRtkY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 ![Oogle]({{site.url}}/img/portfolio/google/map.png){:.img-responsive}
 
 ![House View]({{site.url}}/img/portfolio/google/houseview.png){:.img-responsive}
+
+
 
 
