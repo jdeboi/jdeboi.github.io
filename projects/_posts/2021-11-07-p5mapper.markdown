@@ -1,0 +1,30 @@
+---
+modal-id: aa0015
+title: p5.mapper
+subtitle:
+layout: post
+date: 2021-11-02
+img:
+thumbnail: p5mapper/thumbnail.jpg
+alt: p5.mapper
+project-date: November 2021
+client: 
+tags: [processing, p5.js, projection mapping]
+categories: [web]
+description: p5.js projection mapping library
+custom-javascript-list:
+---
+ 
+Jenna deBoisblanc  
+November 2021 (ongoing)  
+[github link](https://github.com/jdeboi/p5.mapper) 
+
+---
+
+[p5.mapper](https://github.com/jdeboi/p5.mapper) is a projection mapping library designed to make projection mapping easy with p5.js. See the link to the GitHub repo for code examples and additional information.
+
+![p5.mapper]({{site.url}}/img/portfolio/p5mapper/mapped_surfaces.png){:.img-responsive}  
+
+![p5.mapper]({{site.url}}/img/portfolio/p5mapper/shapes.png){:.img-responsive}  
+
+![p5.mapper]({{site.url}}/img/portfolio/p5mapper/screen.png){:.img-responsive}  
