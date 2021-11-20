@@ -3,7 +3,7 @@ modal-id: aa0005
 title: Netscapes
 subtitle:
 layout: post
-date: 2020-7-02
+date: 2021-7-02
 img:
 thumbnail: netscapes/thumbnail.png
 alt: Netscapes

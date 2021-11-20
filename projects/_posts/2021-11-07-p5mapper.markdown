@@ -5,7 +5,7 @@ subtitle:
 layout: post
 date: 2021-11-02
 img:
-thumbnail: p5mapper/thumbnail.jpg
+thumbnail: p5mapper/thumbnail2.jpg
 alt: p5.mapper
 project-date: November 2021
 client: 

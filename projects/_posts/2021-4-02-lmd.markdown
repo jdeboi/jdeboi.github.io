@@ -41,6 +41,3 @@ Losing My Dimension seeks to characterize the nature of spacetime during quarant
 
 ![Macbook Air]({{site.url}}/img/portfolio/lmd/6.png){:.img-responsive}
 
-<div class="embed-responsive embed-responsive-16by9">
-<iframe width="560" height="515" src="https://www.youtube.com/embed/xhFYYC_hlX8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
