@@ -12,8 +12,8 @@
   url: https://docs.google.com/document/d/1nM9ZnWqP0MMoxMqfNHE6gjASCJSvBve71_Hm_Gh6IEY/edit?usp=sharing
   description: Students used Arduinos to develop interactive arcade games (claw machine, skeeball machine, etc.)
   images:
-  - name: 1.jpg
-    thumb: 1.jpg
+  - name: ball.jpg
+    thumb: ball.jpg
 - id: athletics
   title: Improving the Newman Athletics Experience
   imagefolder: /img/courses/arduino/athletics
