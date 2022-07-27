@@ -26,5 +26,3 @@ November 2021 (ongoing)
 ![p5.mapper]({{site.url}}/img/portfolio/p5mapper/mapped_surfaces.png){:.img-responsive}  
 
 ![p5.mapper]({{site.url}}/img/portfolio/p5mapper/shapes.png){:.img-responsive}  
-
-![p5.mapper]({{site.url}}/img/portfolio/p5mapper/screen.png){:.img-responsive}  

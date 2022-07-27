@@ -1,0 +1,21 @@
+I"K<p>I built an Arduino-controlled electronic xylophone.</p>
+
+<p>Piezo disks &gt; voltage &gt; Arduino &gt; OSC and/or MIDI &gt; Garageband</p>
+
+<h3 id="code">Code</h3>
+
+<p><a href="https://github.com/jdeboi/xylophone">Github repos for the code</a></p>
+
+<ul>
+  <li>New code uses Pure Data and OSC to create and/or play MIDI and doesn’t rely on a serial to MIDI converter (updated June 15, 2012)</li>
+  <li>Old code relies on serial to MIDI converter</li>
+</ul>
+
+<h3 id="images">Images</h3>
+
+<p><a href="https://docs.google.com/presentation/d/1t-h0xLnj6Qxv4-3cRlgqHJyamQsAYY2SGfvZXBg5ZAw/edit">Google doc of images</a></p>
+
+<div class="embed-responsive embed-responsive-4by3">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/92VIEDtQKVI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+</div>
+:ET

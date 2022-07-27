@@ -1,0 +1,22 @@
+I"À<p>Jenna deBoisblanc, Joanna Farley, Jenny Wolff<br />
+June 2019<br />
+Custom software (Processing, Node.js, React),<br />
+computer, tablet, projector  <br />
+Dimensions variable</p>
+
+<hr />
+
+<p>Plant Dat is an interactive rain garden that seeks to promote indigenous plants and pavement removal as a means to improve water management in New Orleans. Through a mobile app, participants spawn digital flora that grow, evolve, and multiply. As storms periodically wash through the installation, the algorithmically-spawned vegetation helps to capture rainwater in the soil and potentially avert catastrophic flooding.</p>
+
+<p>Plant Dat was first debuted at the Lucky Art Fair in June, 2019. Jenna deBoisblanc programmed the mobile app and projected visuals, Joanna Farley illustrated the plants and flowers, and Jenny Wolff provided the indigenous plant expertise.</p>
+
+<p><img src="http://localhost:4000/img/portfolio/plantdat/small.jpg" alt="Plant Dat" class="img-responsive" /></p>
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-r6FQa0X-pI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/cwitOKYCGxk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
+<hr />
+:ET

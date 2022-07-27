@@ -1,0 +1,14 @@
+I"e<p>Spacelady is an interactive, Arduino-controlled LED mural. Using a capacitive touch sensor, the Arduino triggers lights and sounds when copper tape pads are touched. To understand the functionality of this mural and to see it in action, watch the videos below.</p>
+
+<p><a href="https://github.com/jdeboi/Spacelady">Code</a></p>
+
+<p><a href="http://www.instructables.com/id/Interactive-Arduino-Mural/">Instructable</a></p>
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kHBFIoMcDd8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+</div>
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wfxt3pCKU1w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+</div>
+:ET

@@ -1,4 +1,4 @@
-url: http://jdeboi.com
+url: https://jdeboi.com
 baseurl:
 
 permalink: /projects/:year/:title:output_ext
@@ -6,7 +6,7 @@ permalink: /projects/:year/:title:output_ext
 # Site settings
 title: jdeboi.com
 email: jdeboi@gmail.com
-description: Jenna deBoisblanc is a creative coder, teacher, and maker in New Orleans.
+description: Jenna deBoisblanc is a creative coder, teacher, and maker.
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

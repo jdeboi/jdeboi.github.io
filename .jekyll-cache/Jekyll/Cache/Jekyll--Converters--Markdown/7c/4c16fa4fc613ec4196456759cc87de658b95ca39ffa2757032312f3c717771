@@ -1,0 +1,21 @@
+I"�<p>Jenna deBoisblanc<br />
+October 2020<br />
+Custom software (d3.js, babylon.js) <br />
+Dimensions variable</p>
+
+<hr />
+<p><a href="https://jdeboi.com/Oogle">Link to project.</a></p>
+
+<p>Oogle critiques the rise of surveillance capitalism, the increasingly dominant economic model whereby tech companies commodify personal data. This interactive web app allows users to explore each room of my house, and upon zooming, the location labels reveal increasingly intimate details about my living space. By Mimicking Google’s interface and color scheme, I encourage the user to reflect upon their potentially inherent trust in a profit-driven software giant that is quickly mapping and photographing every inch of Earth’s surface.</p>
+
+<p>A house view mode, designed to satirize Google Street View, further drills home this critique. I employ my own 360 panoramas in a manner that increases my vulnerability and establishes a voyeuristic relationship with the viewer in order to reflect upon the state of digital privacy.</p>
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WbFJKYNRtkY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+</div>
+
+<p><img src="http://localhost:4000/img/portfolio/google/map.png" alt="Oogle" class="img-responsive" /></p>
+
+<p><img src="http://localhost:4000/img/portfolio/google/houseview.png" alt="House View" class="img-responsive" /></p>
+
+:ET
