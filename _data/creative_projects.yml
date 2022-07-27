@@ -1,16 +1,14 @@
 - id: p5js
   title: Interactivity with p5.js
-  url: #
+  url: https://github.com/Isidore-Newman-School/Creative-Coding-S2017/blob/master/Projects/Project_1.md
   description: Students demonstrate proficiency with JavaScript fundamentals and the p5.js library by developing interactive, creative projects.
   imagefolder: /img/courses/creativecoding
-  projectUrl: https://isidore-newman-school.github.io/cc2016F.html
   images:
   - name: interactive.png
     thumb: interactive.png
 - id: data
   title: Data Visualization
-  url: #
-  projectUrl: https://isidore-newman-school.github.io/cc2016F.html
+  url: https://github.com/Isidore-Newman-School/Creative-Coding-S2017/blob/master/Projects/Project_2.md
   description: Students create D3.js data visualizations on the web using personally-relevant data sets.
   imagefolder: /img/courses/creativecoding
   images:
@@ -18,19 +16,41 @@
     thumb: data.png
 - id: vr
   title: Virtual Reality
-  url: #
+  url: https://github.com/Isidore-Newman-School/Creative-Coding-S2017/blob/master/Projects/Project_3.md
   description: Using three.js, students build VR scenes on the web to use with Google Cardboard.
   imagefolder: /img/courses/creativecoding
-  projectUrl: https://isidore-newman-school.github.io/cc2016F.html
   images:
   - name: vr.png
     thumb: vr.png
 - id: reflection
   title: Reflections
-  url: #
-  projectUrl: href="https://isidore-newman-school.github.io/reflectionsNOMA/
+  url: https://docs.google.com/document/d/10s75h0Wgmi_xTslKAVIZ2BuQvXN5TMas/edit?usp=sharing&ouid=111390766050926008058&rtpof=true&sd=true
   description: New Orleans Museum of Art (NOMA) partnered with Newman to curate artwork under the theme, “Reflections.”  In this project, students used p5.js and web cameras to create algorithmic, “digital reflections” by manipulating pixel video data with code.
   imagefolder: /img/courses/creativecoding
   images:
   - name: reflection.png
     thumb: reflection.png
+- id: bauhaus
+  title: Bauhaus Sketches
+  url: https://docs.google.com/document/d/1k5cGO29LbDbEANRy4r9Qgoe9IKZbXSt6LkPNb30tHJc/edit?usp=sharing
+  description: The Bauhaus (1919-1933) was a German art school famous for its approach to design. You are going to create sketches inspired by Bauhaus design principles. 
+  imagefolder: /img/courses/creativecoding
+  images:
+  - name: bauhaus.png
+    thumb: bauhaus.png
+- id: sol
+  title: Sol Lewitt Wall Drawings
+  url: https://docs.google.com/document/d/1FjxN35iisCTV1SdCdcSAbraL2UnGND7Gl1SSWKT3eE0/edit?usp=sharing
+  description: Sol Lewitt (1928-2007) was a conceptual artist known for (among other work) a creating a series of instructions for large-scale “wall drawings.” You must create an algorithmic sketch inspired by Sol Lewitt’s conceptual work.
+  imagefolder: /img/courses/creativecoding
+  images:
+  - name: sol.png
+    thumb: sol.png
+- id: molnar
+  title: Molnar Nested Loops
+  url: https://docs.google.com/document/d/116_x3rkgSlswIdYAXNH0AkISNj1Rv8Tjx0nUW4YSQ2I/edit?usp=sharing
+  description: Vera Molnár (born 1924) is a pioneer of generative code-based art and is one of the first women to use computers in her artistic practice. You will create an algorithmic sketch inspired by her work.
+  imagefolder: /img/courses/creativecoding
+  images:
+  - name: molnar.png
+    thumb: molnar.png

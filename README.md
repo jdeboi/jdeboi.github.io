@@ -1,2 +1,3 @@
+# Jenna deBoisblanc's Portfolio
 
-Adapted from / built using the [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
+A collection of my projects, syllabi, and more.
