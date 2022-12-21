@@ -17,7 +17,7 @@ custom-javascript-list:
  
 Jenna deBoisblanc  
 December 2022  
-Custom software (JavaScript, p5.js)
+Custom software (JavaScript, p5.js)  
 [GitHub link](https://github.com/jdeboi/p5.anaglyph) 
 
 ---
