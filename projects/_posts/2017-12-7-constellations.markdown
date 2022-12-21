@@ -10,7 +10,7 @@ alt: image-alt
 project-date: December 2017
 client:
 tags: [Processing, Kinect, Projection Mapping, Interactive]
-categories: [installation]
+categories: [installation, light]
 description: Constellations is an animated, interactive celestial skyscape – a cosmic orchestra of light and sound.
 
 ---

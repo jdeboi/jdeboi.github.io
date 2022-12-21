@@ -1,5 +1,5 @@
 ---
-modal-id: aa0015
+modal-id: aa001412
 title: p5.mapper
 subtitle:
 layout: post
@@ -17,7 +17,7 @@ custom-javascript-list:
  
 Jenna deBoisblanc  
 November 2021 (ongoing)  
-[github link](https://github.com/jdeboi/p5.mapper) 
+[GitHub link](https://github.com/jdeboi/p5.mapper) 
 
 ---
 

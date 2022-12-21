@@ -10,7 +10,7 @@ alt: Lacuna
 project-date: February 2020
 client: The Wonderland
 tags: [Processing]
-categories: [installation]
+categories: [light, installation]
 description: light sculpture
 custom-javascript-list:
 ---
