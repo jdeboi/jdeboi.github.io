@@ -20,6 +20,10 @@ The data comes from the [Refinery Accident Database (RAD)](http://www.louisianar
 
 ---
 
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/wYe7KcAEM38?si=5eZjntZ5ZkiRxE3L" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 [![D3 pollution visualization](/img/portfolio/rav/home.png){:.img-responsive}](http://rav.labucketbrigade.org/)
 
 [![D3 pollution visualization](/img/portfolio/rav/la.png){:.img-responsive}](http://rav.labucketbrigade.org/)
