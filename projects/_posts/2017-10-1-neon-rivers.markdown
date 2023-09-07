@@ -16,7 +16,7 @@ description: interactive, Kinect-controlled river of light
 
 Jenna deBoisblanc & [Martin Benson](https://www.martinlbenson.com/)   
 October 2017  
-Custom software (openFrameworks),  
+Custom software (openFrameworks / C++),  
 computer, XBox Kinect, DMX LEDs    
 20 x 16 ft   
 
