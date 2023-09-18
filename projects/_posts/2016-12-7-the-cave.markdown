@@ -15,8 +15,8 @@ description: The Cave is an interactive, projection-mapped installation debuted 
 
 Jenna deBoisblanc    
 December 2016  
-Custom software (Processing, Node.js),  
-computer, projector     
+Custom software (full stack MERN app, GANs, Processing / Java),  
+projector, foam slab     
 16 x 16 x 8 ft   
 
 {::options parse_block_html="true" /}
