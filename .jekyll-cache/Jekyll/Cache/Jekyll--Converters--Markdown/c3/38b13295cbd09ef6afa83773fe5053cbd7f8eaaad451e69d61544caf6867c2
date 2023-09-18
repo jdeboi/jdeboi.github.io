@@ -1,4 +1,4 @@
-I"B
+I"�
 <div class="clearfix headerText">
   <div class="col-md-3 gallery">
     <p><a href="/img/courses/creativecoding/"><img src="/img/courses/creativecoding/interactive.png" alt="alt text" class="img-responsive" /></a></p>
@@ -72,6 +72,28 @@
   <div class="col-md-9">
     <h4><a href="https://docs.google.com/document/d/116_x3rkgSlswIdYAXNH0AkISNj1Rv8Tjx0nUW4YSQ2I/edit?usp=sharing">Molnar Nested Loops</a></h4>
     <p>Vera Molnár (born 1924) is a pioneer of generative code-based art and is one of the first women to use computers in her artistic practice. You will create an algorithmic sketch inspired by her work.</p>
+  </div>
+</div>
+<hr />
+
+<div class="clearfix headerText">
+  <div class="col-md-3 gallery">
+    <p><a href="/img/courses/creativecoding/"><img src="/img/courses/creativecoding/projection.png" alt="alt text" class="img-responsive" /></a></p>
+  </div>
+  <div class="col-md-9">
+    <h4><a href="https://docs.google.com/document/d/1E_ZLD4rzzIsRNVrkKRmk1e1l9lqN18hE/edit?usp=sharing&amp;ouid=111390766050926008058&amp;rtpof=true&amp;sd=true">Light and Code</a></h4>
+    <p>This project employs light and code as a medium to create abstract geometric forms.</p>
+  </div>
+</div>
+<hr />
+
+<div class="clearfix headerText">
+  <div class="col-md-3 gallery">
+    <p><a href="/img/courses/creativecoding/"><img src="/img/courses/creativecoding/digi.jpeg" alt="alt text" class="img-responsive" /></a></p>
+  </div>
+  <div class="col-md-9">
+    <h4><a href="https://docs.google.com/document/d/1v049X-tfOz5_iChEEn6RdsB5PoOMxEYr/edit?usp=sharing&amp;ouid=111390766050926008058&amp;rtpof=true&amp;sd=true">Pen Plotter</a></h4>
+    <p>Students use a mechanical pen plotter to turn algorithmic sketches into 12”x12” drawings.</p>
   </div>
 </div>
 <hr />

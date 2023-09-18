@@ -46,3 +46,11 @@
   images:
   - name: 1.png
     thumb: 1.png
+- id: biomorphic
+  title: Biomorphic Bots
+  imagefolder: /img/courses/arduino/
+  url: https://docs.google.com/document/d/1hzjE138ln8D51RxV1Ppr-OCEMTIizFxZ/edit?usp=sharing&ouid=111390766050926008058&rtpof=true&sd=true
+  description: Students design biomorphic (“resembling or suggesting the forms of living organisms”) Arduino projects that creatively and imaginatively explore new possibilities for robotic life. 
+  images:
+  - name: flower.png
+    thumb: flower.png

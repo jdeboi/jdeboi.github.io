@@ -54,3 +54,19 @@
   images:
   - name: molnar.png
     thumb: molnar.png
+- id: projection
+  title: Light and Code
+  url: https://docs.google.com/document/d/1E_ZLD4rzzIsRNVrkKRmk1e1l9lqN18hE/edit?usp=sharing&ouid=111390766050926008058&rtpof=true&sd=true
+  description: This project employs light and code as a medium to create abstract geometric forms.
+  imagefolder: /img/courses/creativecoding
+  images:
+  - name: projection.png
+    thumb: projection.png
+- id: plotter
+  title: Pen Plotter
+  url: https://docs.google.com/document/d/1v049X-tfOz5_iChEEn6RdsB5PoOMxEYr/edit?usp=sharing&ouid=111390766050926008058&rtpof=true&sd=true
+  description: Students use a mechanical pen plotter to turn algorithmic sketches into 12"x12" drawings. 
+  imagefolder: /img/courses/creativecoding
+  images:
+  - name: digi.jpeg
+    thumb: digi.jpeg
