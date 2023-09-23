@@ -103,3 +103,10 @@ overflow: hidden;
   -moz-transition: all 0.1s ease-in-out;
   transition: all 0.1s ease-in-out;
 }
+
+/* .skill {
+  padding: 3px;
+  background-color:rgba(106,159,181,0.15);
+  font-size: 12px;
+  border-radius: 5px;
+} */

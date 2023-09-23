@@ -1,0 +1,38 @@
+- id: rav
+  title: Refinery Accident Visualizer
+  url: /projects/2014/rav.html
+  description: I created a D3.js data visualization of petrochemical accidents at Louisiana refineries. I developed the project in collaboration with the Louisiana Bucket Brigade as part of their broader public health initiative.
+  year: 2015
+  image: /img/portfolio/rav/ravla-thumbnail.png
+  skills: 
+    - skill: D3.js
+- id: greenarmy
+  title: GreenARMY Scorecard
+  url: /projects/2014/greenarmy.html
+  description: I programed an interactive map using D3.js to explore the environmental voting record of Louisiana State politicians on behalf of the GreenARMY coalition. 
+  year: 2015
+  image: /img/portfolio/scorecard/scorecard-thumbnail.png
+  skills: 
+    - skill: D3.js
+- id: google
+  title: Google Topographies
+  url: /projects/2020/googletopo.html
+  description: I led the data analysis, visual design, and programming (Processing) of Cosmic Symphony, a NASA-commissioned visualization and sonification of cosmic radiation on the journey to Mars. The time-based media communicates the dangers of space travel.
+  year: 2020
+  image: /img/portfolio/google/topo-thumbnail.png
+  skills: 
+    - skill: three.js
+    - skill: Mapbox
+    - skill: WEBGL shaders
+- id: nasa
+  title: Cosmic Symphony
+  url: /projects/2020/nasaviz.html
+  description: I led the data analysis, visual design, and programming (Processing) of Cosmic Symphony, a NASA-commissioned visualization and sonification of cosmic radiation on the journey to Mars. The time-based media communicates the dangers of space travel.
+  year: 2020
+  image: /img/portfolio/nasa/nasa-thumbnail.png
+  skills: 
+    - skill: Processing
+    - skill: data analysis
+    - skill: visual design
+
+

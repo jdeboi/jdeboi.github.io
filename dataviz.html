@@ -1,0 +1,29 @@
+---
+layout: default
+title: dataviz
+---
+
+<div id="teaching" class="topDiv">
+    <div class="container">
+        <h4>Data Visualization</h4>
+        <br />
+        {% for project in site.data.dataviz_projects %}
+        <div class="clearfix headerText">
+            <div class="col-md-3 gallery">
+                <a href="{{ project.url }}"><img src="{{ project.image }}" class="img-responsive" /></a>
+            </div>
+            <div class="col-md-9">
+                <h4><a href="{{ project.url }}">{{project.title}}</a></h4>
+                <!-- <p>{{project.year}}</p> -->
+                <p>{{project.description}}</p>
+                <div class="skills">
+                    {% for skill in project.skills %}
+                        <span class="categoryLink">{{skill.skill}}</span>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+        <hr />
+        {% endfor %}
+    </div>
+</div>
