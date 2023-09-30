@@ -17,7 +17,7 @@
 - id: google
   title: Google Topographies
   url: /projects/2020/googletopo.html
-  description: I led the data analysis, visual design, and programming (Processing) of Cosmic Symphony, a NASA-commissioned visualization and sonification of cosmic radiation on the journey to Mars. The time-based media communicates the dangers of space travel.
+  description: Using three.js and WEGBL shaders, I created a virtual terrain using my Google Maps location data. In this data visualization, elevation corresponds to the frequency of visiting a particular place.
   year: 2020
   image: /img/portfolio/google/topo-thumbnail.png
   skills: 
