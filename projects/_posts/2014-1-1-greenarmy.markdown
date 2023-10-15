@@ -14,8 +14,8 @@ description: d3.js interactive environmental voting map
 ---
 
 
-The [GreenARMY Scorecard](https://jdeboi.com/GreenArmy-Scorecard/) is an interactive map exploring the environmental voting record of Louisiana State Representatives and Senators during the 2015 political session. The selected bills and amendments represented a wide range of state environmental issues.
+The [GreenARMY Scorecard](https://greenarmy-nextjs.vercel.app/) is an interactive map exploring the environmental voting record of Louisiana State Representatives and Senators during the 2015 political session. The selected bills and amendments represented a wide range of state environmental issues.
 
 ---
 
-[![D3 scorecard](/img/portfolio/scorecard/scorecard.png){:.img-responsive}](https://jdeboi.com/GreenArmy-Scorecard/)
+[![D3 scorecard](/img/portfolio/scorecard/scorecard.png){:.img-responsive}](https://greenarmy-nextjs.vercel.app/)
