@@ -1,0 +1,34 @@
+---
+modal-id: aa00
+title: Reverie
+subtitle:
+layout: post
+date: 2024-7-21
+img:
+thumbnail: reverie/reverie-thumbnail.jpg
+alt: Reverie
+project-date: July 2024
+client: 
+tags: [javascript]
+categories: [installation, light]
+description: Reverie is a projection-mapped installation for Marriott International
+custom-javascript-list:
+---
+ 
+Jenna deBoisblanc  
+July 2024  
+Custom software (JavaScript, p5.js, p5.mapper)   
+
+---
+
+Reverie is a projection-mapped installation prepared for Marriott International as part of Tales of the Cocktail 2024. I used [p5.mapper]({{site.url}}/projects/2021/p5mapper.html) to produce ethereal light animations that responded to music.   
+  
+    
+![Reverie]({{site.url}}/img/portfolio/reverie/reverie.jpg){:.img-responsive}
+
+
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AtYNLMC8uj4?si=CtlNAbhbmv70DO51" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+

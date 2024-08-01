@@ -1,4 +1,4 @@
-I"�<p>Jenna deBoisblanc  <br />
+I"�<p>Jenna deBoisblanc  <br />
 December 2016<br />
 Custom software (full stack MERN app, GANs, Processing / Java),<br />
 projector, foam slab   <br />
@@ -12,10 +12,7 @@ projector, foam slab   <br />
 
   <p>“Art and the ability to think of abstract concepts is what distinguishes our species from other animals… Its emergence, therefore, marks one of the key moments when our species became truly human” <a href="http://www.bbc.com/news/science-environment-29415716">*</a></p>
 
-  <p>“The Cave” is an interactive, projection-mapped installation debuted at Luna Fete 2016 that explores the dawn of art created by artificial intelligence- art made possible by new machine learning algorithms. By tweeting images to @paintingthecave, the audience spawns algorithmically-generated computer “cave paintings” that are embedded into the cave’s digital mesh.</p>
-
-  <p>For the tech savvy: the program employs convolutional neural networks to preserve the semantic content of the original tweet while rendering the image in the style of another (also algorithmically-generated) picture. For a complicated, in-depth explanation of neural-style art, <a href="https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf">check out this paper</a>.
-</p>
+  <p>“The Cave” is an interactive, projection-mapped installation that explores the dawn of art created by artificial intelligence- art made possible by new machine learning algorithms. By tweeting images to @paintingthecave, the audience spawns algorithmically-generated computer “cave paintings” that are embedded into the cave’s digital mesh.</p>
 
 </div>
 
