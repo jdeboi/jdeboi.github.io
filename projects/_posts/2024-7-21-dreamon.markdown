@@ -1,17 +1,17 @@
 ---
 modal-id: aa00
-title: Reverie
+title: Dream On
 subtitle:
 layout: post
 date: 2024-7-21
 img:
-thumbnail: reverie/reverie-thumbnail.jpg
-alt: Reverie
+thumbnail: dreamon/dreamon-thumbnail.jpg
+alt: Dream On
 project-date: July 2024
 client: 
 tags: [javascript]
 categories: [installation, light]
-description: Reverie is a projection-mapped installation for Marriott International
+description: Dream On is a projection-mapped installation for Marriott International
 custom-javascript-list:
 ---
  
@@ -21,10 +21,10 @@ Custom software (JavaScript, p5.js, p5.mapper)
 
 ---
 
-Reverie is a projection-mapped installation prepared for Marriott International as part of Tales of the Cocktail 2024. I used [p5.mapper]({{site.url}}/projects/2021/p5mapper.html) to produce ethereal light animations that responded to music.   
+Dream On is a projection-mapped installation prepared for Marriott International as part of Tales of the Cocktail 2024. I used [p5.mapper]({{site.url}}/projects/2021/p5mapper.html) to produce ethereal light animations that responded to music.   
   
     
-![Reverie]({{site.url}}/img/portfolio/reverie/reverie.jpg){:.img-responsive}
+![Dream On]({{site.url}}/img/portfolio/dreamon/dreamon.jpg){:.img-responsive}
 
 
 
