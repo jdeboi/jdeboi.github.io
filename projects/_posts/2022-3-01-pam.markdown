@@ -7,7 +7,7 @@ date: 2022-3-01
 img:
 thumbnail: pam/pam-thumbnail.png
 alt: Losing My Dimension
-project-date: March 2022
+project-date: March 2020
 client: 
 tags: [nodejs, react]
 categories: [web]
@@ -17,11 +17,11 @@ custom-javascript-list:
 
 [publicaccessmemories.com](https://www.publicaccessmemories.com/)  
 Jenna deBoisblanc  
-March 2022  
+March 2020  
 Custom software (MERN stack)   
 ---
 
-[public access memories](https://www.publicaccessmemories.com/) is a virtual net art gallery. Originally a part of my MFA thesis exhibition, the virtual gallery space invites collaborative brainstorming and critical reflection on the the nature of the white cube online. An evolving canvas, the gallery hosts exhibitions, [wrong biennale pavilions](https://thewrong.org/), and more!
+[public access memories](https://www.publicaccessmemories.com/) is a virtual net art gallery that invites collaborative brainstorming and critical reflection on the the nature of the white cube online. An evolving canvas, the gallery hosts exhibitions, [wrong biennale pavilions](https://thewrong.org/), and more!
 
 ![public access memories gallery]({{site.url}}/img/portfolio/pam/gallery.png){:.img-responsive}
 
