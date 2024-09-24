@@ -3,11 +3,11 @@ modal-id: aa0033
 title: Kirasu
 subtitle: Kirasu Music
 layout: post
-date: 2017-11-7
+date: 2019-11-7
 img:
 thumbnail: kirasumusic/kirasumusic-thumbnail.png
 alt: image-alt
-project-date: November 2017
+project-date: November 2019
 client:
 tags: [Web, p5.js]
 categories: [web]
