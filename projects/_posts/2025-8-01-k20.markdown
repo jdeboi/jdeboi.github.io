@@ -1,0 +1,35 @@
+---
+modal-id: aa00
+title: Katrina 20 Data Journalism
+subtitle:
+layout: post
+date: 2025-12-1
+img:
+thumbnail: k20/k20_thumb.jpg
+alt: K20
+project-date: August 2025
+client: 
+tags: [javascript]
+categories: [data viz, web]
+description: An interactive data journalism project tracing the pivotal moments and data trends that shaped New Orleans public education over the past twenty years.
+custom-javascript-list:
+---
+ 
+Jenna deBoisblanc, New Orleans Public Schools, New Schools for New Orleans, Yaho Quezada   
+August 2025  
+Custom software (React, Highcharts.js)
+
+---
+ 
+For the 20th commemoration of Hurricane Katrina, New Orleans Public Schools and New Schools for New Orleans collaborated on a [K20 interactive data journalism project](https://data.nolapublicschools.com/k20/) tracing the pivotal moments, policy decisions, and long-term data trends that shaped New Orleans public education over the past twenty years. Through a combination of narrative storytelling, archival context, and interactive visualizations, the project examines how the city’s school system was transformed and how those changes continue to shape students, families, and communities today.
+
+As the principal developer in my role as Director of Data Dashboards at New Orleans Public Schools, I worked closely with New Schools for New Orleans and UI/UX designer Yaho Quezada to bring the project to life. I helped shape the project’s structure, narrative flow, and user experience—working closely on how the story should unfold and how the data could be made most legible and engaging for readers. My primary role, however, was as the software developer: designing and building the site itself, developing the interactive visualizations, and translating the editorial and design vision into a functional digital experience.
+
+<br />
+       
+[![K20]({{site.url}}/img/portfolio/k20/k20.jpg){:.img-responsive}](https://data.nolapublicschools.com/k20/)
+
+<br />
+
+[![K20]({{site.url}}/img/portfolio/k20/k20_2.jpg){:.img-responsive}](https://data.nolapublicschools.com/k20/)
+

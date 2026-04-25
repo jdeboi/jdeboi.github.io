@@ -1,0 +1,38 @@
+---
+modal-id: aa00
+title: Boscoyo
+subtitle:
+layout: post
+date: 2025-12-1
+img:
+thumbnail: boscoyo/boscoyo_thumb.jpg
+alt: Dream On
+project-date: December 2025
+client: 
+tags: [javascript]
+categories: [installation, light]
+description: Boscoyo (Cajun French for "cypress knee") - a light projection installation presented for the Greenway's Supernova
+custom-javascript-list:
+---
+ 
+Jenna deBoisblanc & Joanna Farley  
+December 2025  
+Custom software (p5.js), hand-drawn illustrations
+
+---
+
+
+Boscoyo (“boo-skee-ohs,” Cajun for cypress knees) is an immersive projection installation that invites viewers into the swamp ecosystems that once defined southern Louisiana. Through animated projections of towering cypress trees, floating lotuses, insects, and other shifting forms of wetland life, the work recreates the feeling of standing inside a living swamp landscape.
+
+Created by Jenna deBoisblanc (code and animation) in collaboration with illustrator Joanna Farley, the installation reflects on both the beauty and fragility of these environments. By immersing viewers in a landscape that has been dramatically altered by human intervention, from the draining of wetlands to the widespread logging of old-growth cypress forests, Boscoyo serves as both a celebration and a quiet elegy for a disappearing ecosystem.  
+
+[Link to Sketch Demo](https://jdeboi.com/boscoyo/sketch1Only.html?demo=1)  
+       
+![Boscoyo]({{site.url}}/img/portfolio/boscoyo/boscoyo.jpg){:.img-responsive}
+
+
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/znuAUJmIn0M?si=Voc4j8gj3e5f2KV9" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
