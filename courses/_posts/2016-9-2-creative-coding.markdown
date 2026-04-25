@@ -12,10 +12,10 @@ description: Creative Coding employs computer programming as a means of creative
 
 <div class="clearfix headerText">
 <div class="col-md-3 gallery">
-[![alt text]({{ project.imagefolder }}/{{ project.images[0].thumb }}){:.img-responsive}]({{ project.imagefolder }}/{{ image.name }})
+<a href="{{ project.url }}" target="_blank"><img src="{{ project.imagefolder }}/{{ project.images[0].thumb }}" class="img-responsive" /></a>
 </div>
 <div class="col-md-9">
-<h4>[{{project.title}}]({{project.url}})</h4>
+<h4><a href="{{project.url}}" target="_blank">{{project.title}}</a></h4>
 <p>{{project.description}}</p>
 </div>
 </div>
